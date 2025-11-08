@@ -34,7 +34,7 @@ With additional experience in **market and trading analysis**, I bring strong an
 
 
 ## 🧾 Copyright
-<div align="center" style="font-size: 12px; color: #aaa;">
+<div align="" style="font-size: 8px; color: #aaa;">
   © 2025 <strong>Project13</strong> with by <strong>Iqbal Baharsyah</strong>
 </div>
 <!--
